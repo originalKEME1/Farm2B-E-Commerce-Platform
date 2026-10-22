@@ -1,2 +1,2 @@
 # Farm2B-E-Commerce-Platform
- A platform that hosts Farmers from peri-urban areas(including SACCOS) and the Business Buyers in urban areas
+The Farm2B E-Commerce platform is a web-based solution that hosts Farmers (including SACCOS) and Business Buyers, allowing the farmers to list their contact details and location, upcoming produce harvest, the actual quantity harvested with the quality and unit price. Buyers view the listed produce, quality and initial price and liaise with the farmer to negotiate a reasonable price for quota, and agree on a delivery schedule that accurately caters for their needs. The platform also handles logistics from the farmers to the business via third party service providers and payment through a variety of 3rd party providers 
